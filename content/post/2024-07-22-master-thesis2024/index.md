@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Pei-Yu Chao (趙珮妤) & Yi-Chun Kuo (郭羿君) for successfully defended their Master’s thesis!
+title: Congratulations to Pei-Yu Chao (趙珮妤) & Yi-Chun Kuo (郭羿君) for successfully defending their Master’s thesis!
 date: 2024-07-22
 reading_time: false
 authors:

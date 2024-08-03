@@ -1,18 +1,17 @@
 ---
-title: Today was a big day
+title: Our phenome-wide genetic investigation across Taiwan, Japan, and the UK Biobanks is now published on Cell Genomics
 description: ""
-date: 2022-06-03
+date: 2023-12-15
 preview: ""
 tags: []
 categories: []
 type: post
 authors:
-    - 薛沐儀
-    - 馮嬿臻
+    - 
 reading_time: false
 ---
 
-news of the day.
+[Link to paper](https://www.sciencedirect.com/science/article/pii/S2666979X23002719?via%3Dihub)
 
 <!--more-->
 

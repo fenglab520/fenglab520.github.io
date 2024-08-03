@@ -8,13 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Feng Lab
+        Welcome to the lab of Neuropsychiatric Genetics!
       image:
-        filename: yenchenfeng_adobespark.jpg
+        filename: homepage_dna.jpg
       text: |
         <br>
-        
-        The **Fenglab** has been a center of excellence for Statistical Genetics research, teaching, and practice since its founding in 2021.
+
+        At the intersection of epidemiology and statistical genetics, our lab investigates the genetic basis of human complex traits, focusing on the susceptibility, severity, and progression of neuropsychiatric disorders. Our research extends to multi-omics methodologies and diverse ancestries, aiming to translate genomics research into improved healthcare and public health.
+
   
   - block: collection
     content:
@@ -34,7 +35,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   # - block: markdown
   #   content:
   #     title:
@@ -76,4 +77,11 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      
+      
+# html code for centering and adjusting text size
+      #        <div style="text-align: center;">
+      #    <span style="font-size:1.5em;align=center"> At the intersection of epidemiology and statistical genetics, our lab investigates the genetic basis of human complex traits, focusing on the susceptibility, severity, and progression of neuropsychiatric disorders. Our research extends to multi-omics methodologies and diverse ancestries, aiming to translate genomics research into improved healthcare and public health.
+      #    </span>
+      #  </div>
 ---

@@ -1,6 +1,6 @@
 ---
-title: Publications
-
+title: Selected publications
+subtitle: (See the full list at [Google Scholar](https://scholar.google.com/citations?user=O3xpGs4AAAAJ&hl=en))
 # Listing view
 view: citation
 

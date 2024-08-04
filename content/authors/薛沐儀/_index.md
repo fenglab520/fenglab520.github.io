@@ -25,11 +25,13 @@ organizations:
 bio: genetics and diseases
 
 interests:
-  - GWAS
+    - Genetic epidemiology
+    - Statistical genetics
+    - Neuropsychiatric diseases
 
 education:
   courses:
-    - course: Bachelor in Public Health
+    - course: B.S. in Public Health
       institution: National Taiwan University
       year: 2024
 
@@ -40,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:me@ntu.edu.tw'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/me
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:r13855003@ntu.edu.tw'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/me
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

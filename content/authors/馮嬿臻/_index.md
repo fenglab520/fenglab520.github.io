@@ -18,25 +18,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include genetic epidemiology, statistical genetics and and biobank research.
+bio: 
 
 interests:
-  - Genetic epidemiology
-  - Statistical genetics
-  - Computational genomics
-  - Neuropsychiatric genetics
-  - Biobank research
+    - Genetic epidemiology
+    - Statistical genetics
+    - Neuropsychiatric diseases
+
 
 education:
   courses:
-    - course: PhD Genetic Epidemiology and Statistical Genetics
+    - course: Sc.D. Epidemiology (Program in Genetic Epidemiology and Statistical Genetics)
       institution: Harvard University
       year: 2017
     - course: M.S. Epidemiology and Preventive Medicine
+      institution: National Taiwan University
       year: 2012
     - course: B.S. Public Health
+      institution: National Taiwan University
       year: 2011
     - course: B.S. Biochemical Science and Technology
+      institution: National Taiwan University
       year: 2011
 
 # Social/Academic Networking
@@ -46,21 +48,21 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:ajfeng@ntu.edu.tw'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com
+    link: https://twitter.com/AnnejaneF
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=O3xpGs4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Annefeng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -74,4 +76,4 @@ user_groups:
   - Principal Investigator
 ---
 
-2022 Yushan Young Scholar, Ministry of Education, Taiwan Vertex Fellow, Innovation programs, Vertex Pharmaceuticals Early Career Investigator (EICP) Poster award at the World Congress of Psychiatric Genetics (WCPG) Program in Quantitative Genomics (PQG) Student/Postdoc Travel Fund, Harvard T.H. Chan School of Public Health Reviewers choice award at the American Society of Human Genetics (ASHG) Harvard Chan School scholarship Studying Abroad Scholarship, Ministry of Education, Taiwan Member of the Phi Tau Phi Scholastic Honor Society of Taiwan College Presidential awards
+Dr. Feng earned a doctorate in genetic epidemiology and completed her postdoctoral training in statistical genetics at Massachusetts General Hospital and the Broad Institute. With a particular interest in neuropsychiatric disorders, including epilepsy and mental illnesses, Dr. Feng’s lab studies the polygenic burden and rare genetic variations that underlie disease susceptibility. Her research also involves applying cross-trait and cross-population methodologies to enhance genetic risk prediction. Recently, her interests have expanded to exploring omics contributions to longitudinal heath profiles such as treatment response and severity. For further details, please see her CV. 

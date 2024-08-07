@@ -10,14 +10,14 @@ sections:
       title: |
         Welcome to the lab of Neuropsychiatric Genetics!
       #image:
-      #  filename: homepage_dna.jpg
+      #  filename: homepage_dna.png
       
       text: 
   - block: hero
     content:
       title: 
       image:
-        filename: homepage_dna.jpg
+        filename: homepage_dna.png
       
       text: At the intersection of epidemiology and statistical genetics, our lab investigates the genetic basis of human complex traits, focusing on the susceptibility, severity, and progression of neuropsychiatric disorders. Our research extends to multi-omics methodologies and diverse ancestries, aiming to translate genomics research into improved healthcare and public health.
 

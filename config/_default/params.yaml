@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
-  font_size: M 
+  font: Classic
+  font_size: M
 
 # SEO
 
@@ -34,6 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
+    fontsize: 16
     align: r
     show_logo: true
     show_language: false
@@ -45,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Feng Lab. Created and maintained by Mu-Yi Shih.'
+    notice: '© {year} Feng Lab. Created and maintained by Mu-Yi Shih. <br> Institute of Health Data Analytics and Statistics, College of Public Health, National Taiwan University'
     license:
       enable: false
       allow_derivatives: false

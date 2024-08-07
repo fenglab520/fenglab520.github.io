@@ -1,5 +1,5 @@
 ---
-title: Development and validation of a new genome-wide association method is now out on Nature Genetics
+title: Development and validation of a new genome-wide association method is now out in Nature Genetics
 date: 2023-11-15
 reading_time: false
 authors:

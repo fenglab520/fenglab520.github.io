@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact us
+      title: Contact Us
       text: |-
-        Welcome to visit us!
+        We are recruiting postdoctoral fellows! Welcome to contact and visit us.
       email: ajfeng@ntu.edu.tw
       phone: +886 2 33668020
       address:

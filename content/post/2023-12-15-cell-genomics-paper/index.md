@@ -1,5 +1,5 @@
 ---
-title: Our phenome-wide genetic investigation across Taiwan, Japan, and the UK Biobanks is now published on Cell Genomics
+title: Our phenome-wide genetic investigation across Taiwan, Japan, and the UK Biobanks is now published in Cell Genomics
 description: ""
 date: 2023-12-15
 preview: ""

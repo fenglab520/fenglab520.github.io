@@ -1,5 +1,5 @@
 ---
-title: Our collaborative work on the cross-population genetic analysis of education attainment is now published on Nature Human Behaviour
+title: Our collaborative work on the cross-population genetic analysis of education attainment is now published in Nature Human Behaviour
 date: 2024-01-15
 reading_time: false
 authors:

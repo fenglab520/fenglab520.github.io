@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ling-Hua Wang 王齡嬅
+title: 王齡嬅 Ling-Hua Wang
 
 # Full name (for SEO)
 first_name: Ling-Hua

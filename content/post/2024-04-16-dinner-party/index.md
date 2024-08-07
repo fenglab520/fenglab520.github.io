@@ -1,5 +1,5 @@
 ---
-title: Dinner party!
+title: Dinner party after a long midterm week!
 date: 2024-04-16
 image:
   #focal_point: 'bottom'

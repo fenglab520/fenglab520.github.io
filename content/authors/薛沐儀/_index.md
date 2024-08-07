@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mu-Yi Shih 薛沐儀
+title: 薛沐儀 Mu-Yi Shih
 
 # Full name (for SEO)
 first_name: Mu-Yi

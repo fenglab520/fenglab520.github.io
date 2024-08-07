@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to the lab of Neuropsychiatric Genetics!
+        <span style="font-size:0.8em"> Welcome to the Lab of Neuropsychiatric Genomics & Statistics </span>
       #image:
       #  filename: homepage_dna.png
       
@@ -17,11 +17,9 @@ sections:
     content:
       title: 
       image:
-        filename: homepage_dna.png
+        filename: homepage_dna2.png
       
-      text: At the intersection of epidemiology and statistical genetics, our lab investigates the genetic basis of human complex traits, focusing on the susceptibility, severity, and progression of neuropsychiatric disorders. Our research extends to multi-omics methodologies and diverse ancestries, aiming to translate genomics research into improved healthcare and public health.
-
-  
+      text: We are a computational research group dedicated to studying the genetic epidemiology and biology of human complex traits, with a focus on the susceptibility, severity, and progression of neuropsychiatric disorders. Our work extends to multi-omics approaches and analyses across diverse ancestries, aiming to translate genomics research into improved healthcare and public health outcomes.
   - block: collection
     content:
       title: Latest News
@@ -74,14 +72,14 @@ sections:
   #     view: citation
   #     columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+#    design:
+#      columns: '1'
       
       
 # html code for centering and adjusting text size

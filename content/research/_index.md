@@ -1,7 +1,7 @@
 ---
 title: Research Areas
 ---
-![image](research.png)
+{{< gallery album="research" resize_options="3554x2000">}}
 ## **Genetic architecture of neuropsychiatric disorders**
 Neuropsychiatric disorders have a clear genetic basis and pose an increasing societal burden, with considerable disparities in research and healthcare across populations.
 While genome-wide association studies (GWAS) have revealed associated genetic loci, much remains to be untangled underlying the heterogeneous symptoms and complex comorbidities of these disorders. Our lab studies the genetic determinants of psychiatric (e.g., bipolar) and neurological disorders (e.g., epilepsy) by analyzing both common and rare variations and their interplay from DNA sequence data. We functionally characterizing these findings, examine the polygenicity and pleiotropy patterns, and conduct cross-ancestry comparisons to identify distinct and shared genetic architectures.

@@ -70,5 +70,9 @@ sections:
     content:
       title:
       subtitle: ''
-      text: </pre>  ![title](hdas_logo.jpg) ![title](ntu_logo.jpg)
+      text: 
+
+#</pre>  ![title](hdas_logo.jpg) ![title](ntu_logo.jpg)
 ---
+aaa
+![alt](hdas_logo.jpg) ![alt](yenchenfeng_adobespark.jpg) ![alt](ntu_logo.jpg)

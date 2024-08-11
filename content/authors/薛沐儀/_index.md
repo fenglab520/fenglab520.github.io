@@ -67,4 +67,4 @@ user_groups:
   - Graduate Student
 ---
 
-Just graduated.
+Hello! I'm Mu-Yi and apart from my current studies in the field of genetic epidemiology, I also love table tennis, tennis and gaming! 

@@ -70,7 +70,7 @@ sections:
     content:
       title: See also
       text: |- 
-        ![image](hdas-logo2.png) [Institute of Health Data Analytics and Statistics](https://hdas.ntu.edu.tw) <br> <br> ![image](epm-logo.png) [Institute of Epidemiology and Preventive Medicine](https://epm.ntu.edu.tw) <br> <br> ![image](ntu-logo.png) [National Taiwan University](https://www.ntu.edu.tw)
+        ![image](hdas-logo.png) [Institute of Health Data Analytics and Statistics](https://hdas.ntu.edu.tw) <br> <br> ![image](epm-logo.png) [Institute of Epidemiology and Preventive Medicine](https://epm.ntu.edu.tw) <br> <br> ![image](ntu-logo.png) [National Taiwan University](https://www.ntu.edu.tw)
 
 #</pre>  ![title](hdas_logo.jpg) ![title](ntu_logo.jpg)
 ---

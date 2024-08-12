@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Cell, 179**(7), 1469-1482 e11"
+publication: "*Cell, 179*(7), 1469-1482 e11"
 publication_short: ""
 
 abstract: "Genetic influences on psychiatric disorders transcend diagnostic boundaries, suggesting substantial pleiotropy of contributing loci. However, the nature and mechanisms of these pleiotropic effects remain unclear. We performed analyses of 232,964 cases and 494,162 controls from genome-wide studies of anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, and Tourette syndrome. Genetic correlation analyses revealed a meaningful structure within the eight disorders, identifying three groups of inter-related disorders. Meta-analysis across these eight disorders detected 109 loci associated with at least two psychiatric disorders, including 23 loci with pleiotropic effects on four or more disorders and 11 loci with antagonistic effects on multiple disorders. The pleiotropic loci are located within genes that show heightened expression in the brain throughout the lifespan, beginning prenatally in the second trimester, and play prominent roles in neurodevelopmental processes. These findings have important implications for psychiatric nosology, drug development, and risk prediction."

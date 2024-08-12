@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Biological Psychiatry, 89**(1), 20-31"
+publication: "*Biological Psychiatry, 89*(1), 20-31"
 publication_short: ""
 
 abstract: "Genome-wide analyses of common and rare genetic variations have documented the heritability of major psychiatric disorders, established their highly polygenic genetic architecture, and identified hundreds of contributing variants. In recent years, these studies have illuminated another key feature of the genetic basis of psychiatric disorders: the important role and pervasive nature of pleiotropy. It is now clear that a substantial fraction of genetic influences on psychopathology transcend clinical diagnostic boundaries. In this review, we summarize evidence in psychiatry for pleiotropy at multiple levels of analysis: from overall genome-wide correlation to biological pathways and down to the level of individual loci. We examine underlying mechanisms of observed pleiotropy, including genetic effects on neurodevelopment, diverse actions of regulatory elements, mediated effects, and spurious associations of genomic variation with multiple phenotypes. We conclude with an exploration of the implications of pleiotropy for understanding the genetic basis of psychiatric disorders, informing nosology, and advancing the aims of precision psychiatry and genomic medicine."

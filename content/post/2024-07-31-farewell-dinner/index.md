@@ -6,7 +6,6 @@ authors:
     -
 ---
 “Who and where do you see yourself in ten years?”
-
 <!--more-->
 ![image](group-photo.jpg)
 ![image](farewell-dinner.jpg)

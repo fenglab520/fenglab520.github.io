@@ -19,7 +19,7 @@ sections:
       image:
         filename: homepage_dna2.png
       
-      text: We are a computational research group dedicated to studying the genetic epidemiology and biology of human complex traits, with a focus on the susceptibility, severity, and progression of neuropsychiatric disorders. Our work extends to multi-omics approaches and analyses across diverse ancestries, aiming to translate genomics research into improved healthcare and public health outcomes.
+      text: <span style="font-size:0.95em"> We are a computational research group dedicated to studying the genetic epidemiology and biology of human complex traits, with an emphasis on the susceptibility, severity, and progression of neuro-psychiatric disorders. Our work extends to analyses <br>of diverse ancestries and multi-omics data, aiming<br> to translate genomics research into improved healthcare and public health outcomes. </span>
   - block: collection
     content:
       title: Latest News

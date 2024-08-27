@@ -14,4 +14,3 @@ reading_time: false
 [Link to paper](https://www.sciencedirect.com/science/article/pii/S2666979X23002719?via%3Dihub)
 
 <!--more-->
-![image](figure.jpg)

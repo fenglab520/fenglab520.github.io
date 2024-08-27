@@ -1,5 +1,6 @@
 ---
 title: Research Areas
+
 ---
 
 <img src="https://i.imgur.com/2EtCK8H.png">

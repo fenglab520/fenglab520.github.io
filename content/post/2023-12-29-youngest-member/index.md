@@ -9,5 +9,3 @@ reading_time: false
 So cute!
 
 <!--more-->
-
-![image](baby.jpg)

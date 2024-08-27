@@ -9,4 +9,3 @@ authors:
 ---
 
 <!--more-->
-![image](group-photo.jpg)

@@ -66,11 +66,18 @@ sections:
   #     spacing:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
+#  - block: markdown
+#    content:
+#      title: See also
+#      text: |- 
+#        ![image](hdas-logo.png) [Institute of Health Data Analytics and Statistics](https://hdas.ntu.edu.tw) <br> <br> ![image](epm-logo.png) [Institute of Epidemiology and Preventive Medicine](https://epm.ntu.edu.tw) <br> <br> ![image](ntu-logo.png) [National Taiwan University](https://www.ntu.edu.tw)
   - block: markdown
     content:
       title: See also
+      subtitle: |-
+       ![image](ntu_epm_hdas.png)
       text: |- 
-        ![image](hdas-logo.png) [Institute of Health Data Analytics and Statistics](https://hdas.ntu.edu.tw) <br> <br> ![image](epm-logo.png) [Institute of Epidemiology and Preventive Medicine](https://epm.ntu.edu.tw) <br> <br> ![image](ntu-logo.png) [National Taiwan University](https://www.ntu.edu.tw)
+        
 
 #</pre>  ![title](hdas_logo.jpg) ![title](ntu_logo.jpg)
 

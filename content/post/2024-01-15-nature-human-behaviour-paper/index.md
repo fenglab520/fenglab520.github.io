@@ -1,5 +1,5 @@
 ---
-title: Broadened Genetic Insights On Education
+title: Broadened Genetic Insights on Education
 date: 2024-01-15
 reading_time: false
 authors:

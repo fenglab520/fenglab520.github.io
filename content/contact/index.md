@@ -73,9 +73,9 @@ sections:
 #        ![image](hdas-logo.png) [Institute of Health Data Analytics and Statistics](https://hdas.ntu.edu.tw) <br> <br> ![image](epm-logo.png) [Institute of Epidemiology and Preventive Medicine](https://epm.ntu.edu.tw) <br> <br> ![image](ntu-logo.png) [National Taiwan University](https://www.ntu.edu.tw)
   - block: markdown
     content:
-      title: See also
-      subtitle: |-
+      title: |-
        ![image](ntu_epm_hdas.png)
+      subtitle: 
       text: |- 
         
 

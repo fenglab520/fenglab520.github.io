@@ -5,7 +5,6 @@ reading_time: false
 authors:
     -
 ---
-Farewell dinner for lab members... 
+Farewell dinner for lab members... “Who and where do you see yourself in ten years?”
 <!--more-->
-“Who and where do you see yourself in ten years?”
 ![image](farewell-dinner.jpg)

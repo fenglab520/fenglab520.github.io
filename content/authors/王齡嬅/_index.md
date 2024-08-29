@@ -22,34 +22,40 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: genetics and diseases
+bio: 
 
 interests:
-  - GWAS
+    - Genetic epidemiology
+    - Statistical genetics
+    - Neuropsychiatric diseases
+
 
 education:
   courses:
-    - course: Institute of epidemiology and preventive medicine
+    - course: M.S. Epidemiology and Preventive Medicine
       institution: National Taiwan University
-      year: 2024
+      year: 2023
+    - course: B.S. Statistics
+      institution: National Cheng Kung University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:me@ntu.edu.tw'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/me
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:me@ntu.edu.tw'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/me
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.uk/citations?# user=sIwtMXoAAAAJ
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +71,4 @@ user_groups:
   - Administration
 ---
 
-More information
+Hello, I'm Ling-Hua. I love eating sweets and playing board games. My current goal is to get my driver's license.

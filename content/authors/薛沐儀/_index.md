@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: genetics and diseases
+bio:
 
 interests:
     - Genetic epidemiology

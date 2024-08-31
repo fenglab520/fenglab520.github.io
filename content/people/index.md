@@ -14,8 +14,9 @@ sections:
           - Principal Investigator
           #- Researchers
           - Graduate Student
+          - Undergraduate Student
           - Administration
-          - Research Assistant
+          #- Research Assistant
           - Visitors
           - Alumni
       sort_by: Params.last_name

@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-size:0.8em">  **Statistical and Neuropsychiatric Genomics Lab</span>**
+        <span style="font-size:0.8em">  **Neuropsychiatric and Statistical Genomics Lab</span>**
       #image:
       #  filename: homepage_dna.png
       

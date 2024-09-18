@@ -1,46 +1,41 @@
 ---
-# Display name
-title: 賴誼謙
+# Chinese_name English_name
+title: 賴誼謙 Yi-Chien Lai
 
-# Full name (for SEO)
-first_name: 
-last_name: 
+# Full name
+first_name: Yi-Chien
+last_name: Lai
 
-# Username (this should match the folder name)
+# Username (this should match your chinese name)
 authors:
-  - 
+  - 賴誼謙
 
-# Is this the primary user of the site?
-superuser: true
+# No need to change
+superuser: false
 
-# Role/position
-role: 
+# Role/position: 
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
   - name: National Taiwan University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio:
-
 interests:
-    - 
+    - Genetic epidemiology
+    - Statistical genetics
+    - Affective disorders
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
+    - course: B.S. in Public Health
+      institution: Kaohsiung Medical University
+      year: 2023
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:r12849020@ntu.edu.tw'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/me
@@ -50,17 +45,14 @@ social:
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Please copy&paste 大小寫一定要一樣: Graduate student/Administration/Alumni
 user_groups:
   - Graduate Student
 ---
+
+Hi! I'm Yi-Chien, and I am currently a co-advising student of Prof. Feng. I'm interested in genetic epidemiology and affective disorders, and I also love listening to K-pop and dancing.
+

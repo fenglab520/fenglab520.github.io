@@ -1,46 +1,41 @@
 ---
-# Display name
-title: 柯怡瑄
+# Chinese_name English_name
+title: 柯怡瑄 Yi-Syuan Ke
 
-# Full name (for SEO)
-first_name: 
-last_name: 
+# Full name
+first_name: Yi-Syuan
+last_name: Ke
 
-# Username (this should match the folder name)
+# Username (this should match your chinese name)
 authors:
-  - 
+  - 柯怡瑄
 
-# Is this the primary user of the site?
-superuser: true
+# No need to change
+superuser: false
 
-# Role/position
-role: 
+# Role/position: 
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
   - name: National Taiwan University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio:
-
 interests:
-    - 
+    - Statistical genetics
+    - Machine Learning
+    - Neuropsychiatric diseases
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
+    - course: B.S. in Statistics
+      institution: National Taipei University
+      year: 2023
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:r12855003@ntu.edu.tw'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/me
@@ -50,17 +45,13 @@ social:
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Please copy&paste 大小寫一定要一樣: Graduate student/Administration/Alumni
 user_groups:
   - Graduate Student
 ---
+
+Ahem, testing? I'm Ke. Busy with coding and studying statistical genetics, but when I'm free, it's all about crocheting and sketching.

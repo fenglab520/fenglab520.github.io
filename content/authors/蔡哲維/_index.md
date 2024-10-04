@@ -26,12 +26,12 @@ bio:
 
 interests:
     - 
-
+    
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
+    - course: B.S. in Public Health
+      institution: National Taiwan University
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

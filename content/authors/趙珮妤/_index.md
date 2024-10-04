@@ -29,10 +29,12 @@ interests:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-
+    - course: M.S. Epidemiology and Preventive Medicine
+      institution: National Taiwan University
+      year: 2024
+    - course: B.S. Statistics
+      institution: National Cheng Kung University
+      year: 2022
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -64,3 +66,4 @@ email: ''
 user_groups:
   - Alumni
 ---
+Hi! I graduated in 2024 and my thesis paper's topic was "Genetic Liability of Bipolar Disorder from Rare Exonic Variants in the Taiwanese Population"!

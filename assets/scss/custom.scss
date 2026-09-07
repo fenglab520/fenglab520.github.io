@@ -252,6 +252,13 @@ body[data-target="#TableOfContents"] .universal-wrapper:not(.pt-3) {
 .home-section:last-of-type {
   padding-bottom: 4rem;
 }
+// The People page ends in a compact members grid, so the standard 4rem reads as
+// too much whitespace before the footer. Trim the last People section only
+// (Home/Contact keep the standard 4rem). Higher specificity wins over the rule
+// above.
+.home-section.wg-people:last-of-type {
+  padding-bottom: 2.5rem;
+}
 
 // Site-wide content column width (centered, ~1120px). Applies to the navbar,
 // the landing-page content (home, contact, people), and the content pages

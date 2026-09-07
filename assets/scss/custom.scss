@@ -768,3 +768,15 @@ body.post-modal-lock {
 .news-min__summary p {
   margin: 0;
 }
+
+// Sticky footer fix: the navbar (.page-header) is an in-flow, position:sticky
+// grid row INSIDE body.page-wrapper, so the wrapper already accounts for it.
+// The theme's `.page-wrapper { min-height: calc(100vh - 70px) }` assumes a
+// separate fixed navbar sitting ABOVE the wrapper and subtracts its height,
+// which leaves a ~70px white strip below the footer on short pages viewed on
+// tall (e.g. 27") monitors. Fill the full viewport instead — matching what the
+// theme already does for its `.no-navbar` variant. `body.page-wrapper` outranks
+// the theme's base + responsive `.page-wrapper` rules on specificity.
+body.page-wrapper {
+  min-height: 100vh;
+}

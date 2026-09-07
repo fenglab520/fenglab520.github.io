@@ -7,14 +7,6 @@ editable: false
 ---
 
 <style>
-/* Breathing room between the CV (PDF embed) and the footer bar. This page uses
-   the single-page .article-container layout, which the site-wide 4rem
-   content-to-footer spacing (scoped to .universal-wrapper / .home-section)
-   doesn't cover — so the embed otherwise ends ~9px above the footer. Scoped to
-   this page only via the inline <style>. */
-.article-container {
-  padding-bottom: 4rem;
-}
 .cv-embed {
   width: 100%;
   height: 85vh;

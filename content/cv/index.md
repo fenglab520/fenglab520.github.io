@@ -7,6 +7,17 @@ editable: false
 ---
 
 <style>
+/* Stop the page from rubber-banding when a scroll flick reaches the bottom.
+   The PDF viewer sits in an iframe, and the CV page has a little scroll of its
+   own below it (the footer). On touch tablets — especially in landscape, where
+   that outer scroll is larger — flicking to the bottom made the whole document
+   bounce a few times. `overscroll-behavior: none` disables that boundary bounce.
+   (This <style> only loads on the CV page, so it doesn't affect other pages.) */
+html,
+body {
+  overscroll-behavior: none;
+}
+
 .cv-embed {
   width: 100%;
   height: 85vh;

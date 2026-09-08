@@ -3544,3 +3544,12 @@ dialog :link {
 #secondaryToolbar .secondaryToolbarButton > span {
   font-size: 12px !important;
 }
+
+/* Local override: keep the PDF's scroll self-contained. The viewer lives in an
+   iframe embedded in the CV page, which itself has a little page scroll (the
+   footer). On touch devices (esp. iPad), reaching the bottom of the PDF chained
+   the momentum into that outer page scroll and rubber-banded — an erratic
+   "jumping" at the bottom. `contain` stops the scroll from leaking to the page. */
+#viewerContainer {
+  overscroll-behavior: contain;
+}

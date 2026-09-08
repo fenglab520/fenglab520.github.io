@@ -3526,3 +3526,13 @@ dialog :link {
     display: none;
   }
 }
+
+/* Local override: match the page-number input (#pageNumber) and the zoom
+   dropdown (#scaleSelect, "Page Width") to the smaller "of N" label size
+   (12px) instead of the default 16px, so the toolbar reads at one size. */
+#pageNumber,
+#scaleSelect {
+  /* !important to beat PDF.js's `font: message-box` shorthand on these fields,
+     which otherwise resets the size to the ~16px OS default. */
+  font-size: 12px !important;
+}

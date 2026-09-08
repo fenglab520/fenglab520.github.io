@@ -12,7 +12,7 @@ editable: false
   height: 85vh;
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 4px;
-  margin-bottom: 3rem; /* breathing room above the footer bar */
+  margin-bottom: 1.5rem; /* breathing room above the footer bar */
 }
 </style>
 

@@ -3536,3 +3536,11 @@ dialog :link {
      which otherwise resets the size to the ~16px OS default. */
   font-size: 12px !important;
 }
+
+/* Local override: match the ">>" secondary-toolbar menu items (Open, Print,
+   Save, Go to First/Last Page, Rotate, Text/Hand Tool, Page Scrolling,
+   Document Properties…) to the same 12px as the rest of the toolbar. */
+#secondaryToolbar .secondaryToolbarButton,
+#secondaryToolbar .secondaryToolbarButton > span {
+  font-size: 12px !important;
+}
